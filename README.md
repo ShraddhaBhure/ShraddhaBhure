@@ -1,7 +1,7 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Shraddha Bhure
+# Hi, I'm Shraddha Bhure ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ======================================================================================================================================
 
-.NET Developer | C# Developer
+.NET Developer | C# Developer |MVC Core | Web API
 -----------------------------
 
 I am a passionate C# developer with experience in Microsoft .Net technology. I specialize in developing and maintaining applications in ASP .NET MVC core and Web API. I also have expertise in  HTML, CSS, JS, jQuery, Bootstrap, Entity Framework, ADO .NET, SQL Server Database, Stored Procedures, and API Testing in Postman. I am also familiar with GitHub and its version control features.
@@ -9,11 +9,8 @@ I am a passionate C# developer with experience in Microsoft .Net technology. I s
 
 * 🌍  I'm based in Nagpur
 * ✉️  You can contact me at [shraddhabhure2022@gmail.com](mailto:shraddhabhure2022@gmail.com)
-* - GitHub: https://github.com/ShraddhaBhure/
-- LinkedIn: https://linkedin.com/in/shraddha-bhure-989799218
 * 🧠  I'm learning Angular
 * 🤝  I'm open to collaborating on Projects
-* ⚡  I am Ninja
 
 ## Experience
 - Experienced in developing and maintaining commercial application projects.
@@ -45,7 +42,17 @@ I am a passionate C# developer with experience in Microsoft .Net technology. I s
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/ShraddhaBhure" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/ShraddhaBhure" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/ShraddhaBhure" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/ShraddhaBhure" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left">
+  <img src="https://logos-world.net/wp-content/uploads/2022/01/NET-Framework-Logo.png" alt="NETFramework" height="40" style="vertical-align:top; margin:4px">
+<img src="https://miro.medium.com/max/512/1*5fQvZr2W6ydJ1fxjLgwhcg.png" alt="api" height="40" style="vertical-align:top; margin:4px">
+<img src="https://www.pngitem.com/pimgs/m/531-5318011_microsoft-net-logo-microsoft-net-logo-png-transparent.png" alt="DotNet" height="40" style="vertical-align:top; margin:4px">
+<img src="https://codeopinion.com/wp-content/uploads/2017/10/Bitmap-MEDIUM_Entity-Framework-Core-Logo_2colors_Square_Boxed_RGB.png" alt="Entity" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQiUIc9ZDCjUkwYrm3gIUqNjrFOk7mYHI-1w&amp;usqp=CAU" alt="WebAPI" height="40" style="vertical-align:top; margin:4px">
+<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--xAZDeCrA--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/idydts6do9zypzt0i519.jpg" alt="MVC5" height="40" style="vertical-align:top; margin:4px">
+<img src="https://i0.wp.com/dicodeplace.com/wp-content/uploads/2023/03/feature-image.webp?fit=1280%2C720&amp;ssl=1" alt="APItoAngular" height="40" style="vertical-align:top; margin:4px"> 
+<img src="https://mms.businesswire.com/media/20230322005274/en/761650/2/postman-logo-vert-2018.jpg" alt="Postman"height="40" style="vertical-align:top; margin:4px">
+<img src="https://www.commvault.com/wp-content/uploads/2019/08/sql-server_logo.jpg?quality=80&amp;w=930" alt="SQL" height="40" style="vertical-align:top; margin:4px">
+  <a href="https://www.github.com/ShraddhaBhure" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://linkedin.com/in/shraddha-bhure-989799218" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/ShraddhaBhure" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/ShraddhaBhure" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
