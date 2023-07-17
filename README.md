@@ -4,17 +4,24 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 .NET Developer | C# Developer
 -----------------------------
 
-I'm developer
+I am a passionate C# developer with experience in Microsoft .Net technology. I specialize in developing and maintaining applications in ASP .NET MVC core and Web API. I also have expertise in  HTML, CSS, JS, jQuery, Bootstrap, Entity Framework, ADO .NET, SQL Server Database, Stored Procedures, and API Testing in Postman. I am also familiar with GitHub and its version control features.
+
 
 * 🌍  I'm based in Nagpur
 * ✉️  You can contact me at [shraddhabhure2022@gmail.com](mailto:shraddhabhure2022@gmail.com)
+* - GitHub: https://github.com/ShraddhaBhure/
+- LinkedIn: https://linkedin.com/in/shraddha-bhure-989799218
 * 🧠  I'm learning Angular
 * 🤝  I'm open to collaborating on Projects
 * ⚡  I am Ninja
 
-<a href="https://www.github.com/ShraddhaBhure" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/ShraddhaBhure?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
+## Experience
+- Experienced in developing and maintaining commercial application projects.
+- Proficient in working on School, College, and University projects.
+- Skilled in ASP. NET Web forms, MVC, and Web API development.
+- Familiar with reporting tools like Crystal Reports.
+- Knowledgeable in SQL Server, stored procedures, triggers, and queries.
+- Proficient in AI tools such as ChatGPT and Google Bard.
 ### Skills
 
 
@@ -55,3 +62,5 @@ src="https://img.shields.io/github/followers/ShraddhaBhure?logo=github&style=for
 <b>Top Repositories</b>
 
 <div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
+
+<img class="J9AiF" src="https://64.media.tumblr.com/bc645d0db3de0fd8d1a62f78b099a2f9/tumblr_ml6p7zKIe41s48kibo1_500.gif" alt="#gifs from I don't want a tumblr title">
