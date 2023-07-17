@@ -3,7 +3,7 @@
 .NET Developer | C# |MVC Core | Web API 
 -----------------------------
 
-I am a passionate C# developer with experience in Microsoft .Net technology. I specialize in developing and maintaining applications in ASP .NET MVC core and Web API. I also have expertise in  HTML, CSS, JS, jQuery, Bootstrap, Entity Framework, ADO .NET, SQL Server Database, Stored Procedures, and API Testing in Postman. I am also familiar with GitHub and its version control features.
+I am a passionate C# developer with experience in Microsoft .Net technology. I specialize in developing and maintaining applications in ASP .NET MVC core and Web API. I also have expertise in  HTML, CSS, JS, jQuery, Bootstrap, Entity Framework, ADO .NET, SQL Server Database, Stored Procedures, and API Testing in SwaggerUI & Postman. I am also familiar with GitHub and its version control features.
 
 
 * 🌍  I'm based in Nagpur
@@ -15,6 +15,7 @@ I am a passionate C# developer with experience in Microsoft .Net technology. I s
 - Experienced in developing and maintaining commercial application projects.
 - Proficient in working on School, College, and University projects.
 - Skilled in ASP. NET Web forms, MVC, and Web API development.
+- Skilled in Front-End Technologies HTML, CSS,SCSS, Bootstrap, JS, JQuery,
 - Familiar with reporting tools like Crystal Reports.
 - Knowledgeable in SQL Server, stored procedures, triggers, and queries.
 - Proficient in AI tools such as ChatGPT and Google Bard.
