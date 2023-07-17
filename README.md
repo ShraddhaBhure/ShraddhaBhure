@@ -13,7 +13,7 @@ I am a passionate C# developer with experience in Microsoft .Net technology. I s
 
 ## Experience
 - Experienced in developing and maintaining commercial application projects.
-- Experienced in MVC Core & Web Forms Applications for School, College, and University projects.
+- Experienced in MVC Core & Web Forms Applications for School, College, and University.
 - Skilled in developing Web APIs and integrating them with MVC Core and Angular applications.
 - Skilled in Front-End Technologies HTML, CSS,SCSS, Bootstrap, JS, JQuery,
 - Familiar with reporting tools like Crystal Reports.
