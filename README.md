@@ -6,7 +6,7 @@
 I am a passionate C# developer with experience in Microsoft .Net technology. I specialize in developing and maintaining applications in ASP .NET MVC core and Web API. I also have expertise in  HTML, CSS, JS, jQuery, Bootstrap, Entity Framework, ADO .NET, SQL Server Database, Stored Procedures, and API Testing in SwaggerUI & Postman. I am also familiar with GitHub and its version control features.
 
 
-* 🌍  I'm based in Nagpur
+* 🌍  I'm based in Nagpur, Maharastra, India
 * ✉️  You can contact me at [shraddhabhure2022@gmail.com](mailto:shraddhabhure2022@gmail.com)
 * 🧠  I'm learning Angular
 * 🤝  I'm open to collaborating on Projects
