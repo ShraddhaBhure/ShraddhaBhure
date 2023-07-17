@@ -13,12 +13,12 @@ I am a passionate C# developer with experience in Microsoft .Net technology. I s
 
 ## Experience
 - Experienced in developing and maintaining commercial application projects.
-- Proficient in working on School, College, and University projects.
-- Skilled in ASP. NET Web forms, MVC, and Web API development.
+- Experienced in MVC Core & Web Forms Applications for School, College, and University projects.
+- Skilled in developing Web APIs and integrating them with MVC Core and Angular applications.
 - Skilled in Front-End Technologies HTML, CSS,SCSS, Bootstrap, JS, JQuery,
 - Familiar with reporting tools like Crystal Reports.
 - Knowledgeable in SQL Server, stored procedures, triggers, and queries.
-- Proficient in AI tools such as ChatGPT and Google Bard.
+- Familiar with tools such as ChatGPT and Google Bard.
 ### Skills
 
 
