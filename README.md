@@ -1,7 +1,7 @@
 # Hi, I'm Shraddha Bhure ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
 .NET Developer | C# |MVC Core | Web API 
------------------------------
+----------------------------------------
 
 I am a passionate C# developer with experience in Microsoft .Net technology. I specialize in developing and maintaining applications in ASP .NET MVC core and Web API. I also have expertise in  HTML, CSS, JS, jQuery, Bootstrap, Entity Framework, ADO .NET, SQL Server Database, Stored Procedures, and API Testing in SwaggerUI & Postman. I am also familiar with GitHub and its version control features.
 
@@ -49,7 +49,7 @@ I am a passionate C# developer with experience in Microsoft .Net technology. I s
 </p>
 
 
-### Socials
+
 
 <p align="left">
 <a href="https://www.github.com/ShraddhaBhure" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://linkedin.com/in/shraddha-bhure-989799218" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/ShraddhaBhure" target="_blank" rel="noreferrer"></a></p>
@@ -66,8 +66,7 @@ I am a passionate C# developer with experience in Microsoft .Net technology. I s
 
 <a href="https://github.com/ShraddhaBhure" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShraddhaBhure&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<b>Top Repositories</b>
 
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
+
 
 <img class="J9AiF" src="https://64.media.tumblr.com/bc645d0db3de0fd8d1a62f78b099a2f9/tumblr_ml6p7zKIe41s48kibo1_500.gif" alt="#gifs from I don't want a tumblr title">
