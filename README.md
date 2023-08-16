@@ -7,7 +7,8 @@ I am a passionate C# developer with experience in Microsoft .Net technology. I s
 
 
 * 🌍  I'm based in Nagpur, Maharastra, India
-* ✉️  You can contact me at [shraddhabhure2022@gmail.com](mailto:shraddhabhure2022@gmail.com)
+* ✉️ 📩 You can contact me at [shraddhabhure2022@gmail.com](mailto:shraddhabhure2022@gmail.com)
+* 📨 Linkedln -linkedin.com/in/shraddha-bhure-989799218
 * 🧠  I'm learning Angular
 * 🤝  I'm open to collaborating on Projects
 
@@ -57,8 +58,6 @@ I am a passionate C# developer with experience in Microsoft .Net technology. I s
 ### Badges
 
 <b>My GitHub Stats</b>
-
-<a href="http://www.github.com/ShraddhaBhure"><img src="https://github-readme-stats.vercel.app/api?username=ShraddhaBhure&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ShraddhaBhure's GitHub stats" /></a>
 
 <a href="http://www.github.com/ShraddhaBhure"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ShraddhaBhure&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
