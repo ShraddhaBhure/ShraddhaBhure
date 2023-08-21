@@ -8,7 +8,7 @@ I am a passionate C# developer with experience in Microsoft .Net technology. I s
 
 * 🌍  I'm based in Nagpur, Maharastra, India
 * 📩 You can contact me at [shraddhabhure2022@gmail.com](mailto:shraddhabhure2022@gmail.com)
-* 📨 Linkedln -linkedin.com/in/shraddha-bhure-989799218
+* 📨 Linkedln -[linkedin.com/in/shraddha-bhure-989799218](https://www.linkedin.com/in/shraddha-bhure-989799218)
 * 🧠  I'm learning Angular and React
 * 🤝  I'm open to collaborating on Projects
 
