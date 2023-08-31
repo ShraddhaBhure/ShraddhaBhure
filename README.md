@@ -1,4 +1,4 @@
-![logo]([https://github.com/ShraddhaBhure/ShraddhaBhure/blob/main/sb4.gif](https://github.com/ShraddhaBhure/ShraddhaBhure/blob/main/sbBanner.gif)
+![logo]([https://github.com/ShraddhaBhure/ShraddhaBhure/blob/main/Blue%20Yellow%20Futuristic%20Virtual%20Technology%20Blog%20Banner.gif)
 <h1 align="center">Hi 👋, I'm Shraddha Bhure</h1>
 <h3 align="center">A Passionate Full Stack .NET Developer (C#| .NET Core| MVC | Web API ) from India</h3>
 
@@ -23,7 +23,7 @@
 <a href="https://twitter.com/BhureShraddha22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shraddhabhure" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shraddha-bhure-989799218" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shraddha-bhure-989799218" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/shraddhabhure" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="shraddhabhure" height="30" width="40" /></a>
-<a href="https://instagram.com/ShraddhaB_photography target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shraddhabhure" height="30" width="40" /></a>
+<a href="[https://instagram.com/ShraddhaB_photography](https://www.instagram.com/s.b.wallpaper/?hl=en)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shraddhabhure" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
