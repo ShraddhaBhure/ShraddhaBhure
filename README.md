@@ -1,4 +1,4 @@
-![logo]([https://github.com/ShraddhaBhure/ShraddhaBhure/blob/main/Blue%20Yellow%20Futuristic%20Virtual%20Technology%20Blog%20Banner.gif)
+![logo](https://github.com/ShraddhaBhure/ShraddhaBhure/blob/main/Blue%20Yellow%20Futuristic%20Virtual%20Technology%20Blog%20Banner.gif)
 <h1 align="center">Hi 👋, I'm Shraddha Bhure</h1>
 <h3 align="center">A Passionate Full Stack .NET Developer (C#| .NET Core| MVC | Web API ) from India</h3>
 
