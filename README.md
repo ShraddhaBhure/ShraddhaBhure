@@ -1,7 +1,8 @@
 ![logo](https://github.com/ShraddhaBhure/ShraddhaBhure/blob/main/Blue%20Yellow%20Futuristic%20Virtual%20Technology%20Blog%20Banner.gif)
 <h1 align="center">Hi 👋, I'm Shraddha Bhure</h1>
 <h3 align="center">A Passionate Full Stack .NET Developer (C#| .NET Core| MVC | Web API ) from India</h3>
-<img align="right" alt="mecoding" width="400" src="https://user-images.githubusercontent.com/53329034/123502306-0fcdfc80-d669-11eb-87e4-d24cccfbbd00.gif" width="20%" height="20%" >
+
+<img align="right" alt="mecoding2" width="200" src="https://github.com/ShraddhaBhure/ShraddhaBhure/blob/main/sb3.gif.webm" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shraddhabhure&label=Profile%20views&color=0e75b6&style=flat" alt="shraddhabhure" /> </p>
 
