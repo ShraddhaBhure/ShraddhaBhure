@@ -1,10 +1,12 @@
 ![logo](https://github.com/ShraddhaBhure/ShraddhaBhure/blob/main/sbBanner.gif)
 <h1 align="center">Hi 👋, I'm Shraddha Bhure</h1>
 <h3 align="center">A Passionate Full Stack .NET Developer (C#| .NET Core| MVC | Web API ) </h3>
-
+<br/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shraddhabhure&label=Profile%20views&color=0e75b6&style=flat" alt="shraddhabhure" /> </p>
+<br/>
 <img align="right" alt="mecoding" width="400" src="https://user-images.githubusercontent.com/74038190/249570803-02293768-9242-47e1-bf8f-d084ba0a2d1d.gif" width="20%" height="20%" >
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shraddhabhure&label=Profile%20views&color=0e75b6&style=flat" alt="shraddhabhure" /> </p>
+
 
 - 🔭 I am a passionate C# developer with experience in Microsoft .Net technology. I specialize in developing and maintaining applications in ASP .NET MVC core and Web API. 
 
