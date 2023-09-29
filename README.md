@@ -1,6 +1,6 @@
 ![logo](https://github.com/ShraddhaBhure/ShraddhaBhure/blob/main/sbBanner.gif)
 <h1 align="center">Hi 👋, I'm Shraddha Bhure</h1>
-<h3 align="center">A Passionate Full Stack .NET Developer (C#| .NET Core| MVC | Web API ) </h3>
+<h3 align="center">Full Stack .NET Developer (C#| .NET Core| MVC | Web API ) </h3>
 <br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shraddhabhure&label=Profile%20views&color=0e75b6&style=flat" alt="shraddhabhure" /> </p>
 <br/>
