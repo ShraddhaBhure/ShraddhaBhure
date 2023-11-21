@@ -14,7 +14,7 @@
 - 📝 Visit me on [in/shraddha-bhure-989799218](in/shraddha-bhure-989799218)
 - 📫 How to reach me **shraddhabure2022@gmail.com**
 - 🤝  I'm open to collaborating on Projects
-- 🌱 I’m currently learning **Angular, React**
+- 🌱 I’m currently learning **Angular, React**, Docker, Azure.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
