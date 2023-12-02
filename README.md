@@ -32,7 +32,6 @@
   <img src="https://miro.medium.com/v2/resize:fit:630/1*GWjlB9_708s3lbx8ufOYlw.jpeg" alt="DotNetmvc" width="40" height="40">
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQiUIc9ZDCjUkwYrm3gIUqNjrFOk7mYHI-1w&amp;usqp=CAU" alt="WebAPI" height="40" style="vertical-align:top; margin:4 px">
 
-<img src="https://i0.wp.com/dicodeplace.com/wp-content/uploads/2023/03/feature-image.webp?fit=1280%2C720&amp;ssl=1" alt="APItoAngular" height="40" style="vertical-align:top; margin:4 px"> 
 
 <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*OARpkeBkn_Tw3vk8H769OQ.png" alt="docker" height="40" style="vertical-align:top; margin:4 px"> 
 
