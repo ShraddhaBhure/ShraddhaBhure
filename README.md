@@ -1,6 +1,6 @@
 ![logo](https://github.com/ShraddhaBhure/ShraddhaBhure/blob/main/sbBanner.gif)
 <h1 align="center">Hi 👋, I'm Shraddha Bhure</h1>
-<h3 align="center">Full Stack .NET Developer (C#| .NET Core| MVC | Web API ) </h3>
+<h3 align="center">Full Stack .NET Developer (C#| .NET Core| MVC | Web API| Azure |Docker ) </h3>
 <br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shraddhabhure&label=Profile%20views&color=0e75b6&style=flat" alt="shraddhabhure" /> </p>
 <br/>
@@ -14,7 +14,7 @@
 - 📝 Visit me on [in/shraddha-bhure-989799218](in/shraddha-bhure-989799218)
 - 📫 How to reach me **shraddhabure2022@gmail.com**
 - 🤝  I'm open to collaborating on Projects
-- 🌱 I’m currently learning **Angular, React**, Docker, Azure.
+- 🌱 I’m currently learning **Angular, React**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -33,6 +33,7 @@
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQiUIc9ZDCjUkwYrm3gIUqNjrFOk7mYHI-1w&amp;usqp=CAU" alt="WebAPI" height="40" style="vertical-align:top; margin:4 px">
 
 <img src="https://i0.wp.com/dicodeplace.com/wp-content/uploads/2023/03/feature-image.webp?fit=1280%2C720&amp;ssl=1" alt="APItoAngular" height="40" style="vertical-align:top; margin:4 px"> 
+<img src="https://1000logos.net/wp-content/uploads/2023/01/Microsoft-Azure-logo.png" alt="azure" height="40" style="vertical-align:top; margin:4 px"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
