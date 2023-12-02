@@ -33,6 +33,9 @@
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQiUIc9ZDCjUkwYrm3gIUqNjrFOk7mYHI-1w&amp;usqp=CAU" alt="WebAPI" height="40" style="vertical-align:top; margin:4 px">
 
 <img src="https://i0.wp.com/dicodeplace.com/wp-content/uploads/2023/03/feature-image.webp?fit=1280%2C720&amp;ssl=1" alt="APItoAngular" height="40" style="vertical-align:top; margin:4 px"> 
+
+<img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*OARpkeBkn_Tw3vk8H769OQ.png" alt="docker" height="40" style="vertical-align:top; margin:4 px"> 
+
 <img src="https://1000logos.net/wp-content/uploads/2023/01/Microsoft-Azure-logo.png" alt="azure" height="40" style="vertical-align:top; margin:4 px"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
