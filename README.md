@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ShraddhaBhure](https://github.com/ShraddhaBhure)
 - 📝 Visit me on [in/shraddha-bhure-989799218](in/shraddha-bhure-989799218)
-- 📫 How to reach me **shraddhabure2022@gmail.com**
+- 📫 How to reach me **shraddhabhure2022@gmail.com**
 - 🤝  I'm open to collaborating on Projects
 - 🌱 I’m currently learning **Angular, React**.
 
