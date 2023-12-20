@@ -8,7 +8,7 @@
 
 
 
-- 🔭 I am a passionate C# developer with experience in Microsoft .Net technology. I specialize in developing and maintaining applications in ASP .NET MVC core and Web API. 
+- 🔭 I am a passionate C# developer with experience in Microsoft .Net technology. I specialize in developing and maintaining applications in ASP .NET MVC core and Web API, Microserices, WebForms. 
 
 - 👨‍💻 All of my projects are available at [https://github.com/ShraddhaBhure](https://github.com/ShraddhaBhure)
 - 📝 Visit me on [in/shraddha-bhure-989799218](in/shraddha-bhure-989799218)
